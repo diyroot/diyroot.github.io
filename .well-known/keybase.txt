@@ -1,32 +1,32 @@
 ==================================================================
-https://keybase.io/diyroot
+https://keybase.io/folderoot
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://root.or.id
-  * I am diyroot (https://keybase.io/diyroot) on keybase.
-  * I have a public key ASB3GUHo3Gw8YMaNcIBn3AxLn7CarjlAU-c7BU3MNLHP_wo
+  * I am folderoot (https://keybase.io/folderoot) on keybase.
+  * I have a public key ASAfyTNl1OdpGNlLZ5FpLzqhH-HfA71JjxuS87p6LN5TuAo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120771941e8dc6c3c60c68d708067dc0c4b9fb09aae394053e73b054dcc34b1cfff0a",
+      "eldest_kid": "01206cd7177bdf17a3b8a784621d38422e88a02da93fae1ace699574ef9832db26fb0a",
       "host": "keybase.io",
-      "kid": "0120771941e8dc6c3c60c68d708067dc0c4b9fb09aae394053e73b054dcc34b1cfff0a",
-      "uid": "9eb2610403ec64f78f2770dc55b98f19",
-      "username": "diyroot"
+      "kid": "01201fc93365d4e76918d94b6791692f3aa11fe1df03bd498f1b92f3ba7a2cde53b80a",
+      "uid": "bab1558d2270f99391919d9e7b34fb19",
+      "username": "folderoot"
     },
     "merkle_root": {
-      "ctime": 1716408595,
-      "hash": "01215588a091e28e4db956493ad5bcca7b01b273c007af0a07b74e14034212f4e26fa6f5f9111aa422c3f31e032b8533e565696c5e7f62dd860cc2c8a7302018",
-      "hash_meta": "c87e805203d513e33cb5f627951b044da5f74d0ef7c3b57a1a460d79490b1730",
-      "seqno": 25750049
+      "ctime": 1716582807,
+      "hash": "5b8262872f6d24fcba83f258c1eca2107bafa8d5fd662aee45afe199bb689b8330d8c03290d80c38250b5ac19ca76204f2479fb3a9be7efabe406e7169d7d7f4",
+      "hash_meta": "2f872a5686ce206cb9e9e66c6ce59e053a40dd1bd4c9c99624cf503c3922dc9e",
+      "seqno": 25756495
     },
     "service": {
-      "entropy": "TWDuZd/Aht74irootyMdyykG",
+      "entropy": "FjAi1ZyTECNlRo6cLTguG+rN",
       "hostname": "root.or.id",
       "protocol": "https:"
     },
@@ -37,20 +37,20 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "6.2.8"
   },
-  "ctime": 1716408640,
+  "ctime": 1716582929,
   "expire_in": 504576000,
-  "prev": "b2b97007eb194b341d7429b53b1b3b8c23eaf25bb32e20e82da497d7cc580edc",
-  "seqno": 5,
+  "prev": "b48f3190c5b77a9cf9c367a8de839edd653ac4ef663d1f611e1800bf508e47a1",
+  "seqno": 14,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdxlB6NxsPGDGjXCAZ9wMS5+wmq45QFPnOwVNzDSxz/8Kp3BheWxvYWTESpcCBcQgsrlwB+sZSzQddCm1Oxs7jCPq8luzLiDoLaSX18xYDtzEIJy0z8jd2qFV/IibH8JNTqTbLZuNvIkNgWfgoO0QYbERAgHCo3NpZ8RAkGmO/T8OejAlh8Xi8sMlFdppQ2NHkkYgKFemyhLtBau3bTHCVf+om7Uu/KF7KwcwyxWLdC94M/pVRBKwf76wBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOeyo5e+iyZXBdIb/2WwQFLF5P9zR4XWFOJBHTh1xNwKo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgH8kzZdTnaRjZS2eRaS86oR/h3wO9SY8bkvO6eizeU7gKp3BheWxvYWTESpcCDsQgtI8xkMW3epz5w2eo3oOe3WU6xO9mPR9hHhgAv1COR6HEIEqk7lcohoh1237M+gsFeNCgg+vgyJ8XLnCPFGS3sarRAgHCo3NpZ8RAoO0Q1phBKUZsn93oalAt6GE+oha0tru6OY514yq6RbNMI9kGit6tTiMLm2Fy8EkNszwyU6keADzyRh5Kjp4LDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFmks5RE5UyV3yyO8UEwWTAxe5g5r+54zHAcUnLhOYMno3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/diyroot
+View my publicly-auditable identity here: https://keybase.io/folderoot
 
 ==================================================================
